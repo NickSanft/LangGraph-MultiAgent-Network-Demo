@@ -1,0 +1,3 @@
+# Modelfile
+FROM codellama
+PARAMETER num_ctx 32768

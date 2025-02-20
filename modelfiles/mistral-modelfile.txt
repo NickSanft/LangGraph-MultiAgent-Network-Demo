@@ -1,0 +1,3 @@
+# Modelfile
+FROM mistral
+PARAMETER num_ctx 32768
