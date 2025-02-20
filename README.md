@@ -17,4 +17,4 @@ This is an example of how you can use LangGraph to create a network of LLMs.
 
 ## Network Mermaid Diagram
 
-[mermaid.png](./mermaid.png)
+![mermaid.png](./mermaid.png)
