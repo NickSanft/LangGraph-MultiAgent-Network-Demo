@@ -14,3 +14,7 @@ This is an example of how you can use LangGraph to create a network of LLMs.
 ## Use
 
 - Run main.py, which will give you a CLI to talk to this network.
+
+## Network Mermaid Diagram
+
+[mermaid.png](./mermaid.png)
